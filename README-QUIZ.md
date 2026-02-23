@@ -20,3 +20,4 @@ Penyelesaian kuis praktikum mandiri dengan rincian sebagai berikut:
    [cite_start]*Output: Menampilkan teks detail buku sesuai ID yang dimasukkan.* [cite: 384]
 3. **Cek List Rute:**
    [cite_start]Jalankan perintah berikut di terminal: `php artisan route:list --path=koleksi` [cite: 385-387]
+   
